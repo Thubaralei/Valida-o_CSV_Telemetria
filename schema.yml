@@ -1,0 +1,2 @@
+required: ["Type","Color","Quantity","Year"]
+populated: ["Type","Year"]
