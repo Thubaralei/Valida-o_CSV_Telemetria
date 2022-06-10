@@ -29,6 +29,8 @@ Ferramenta faz a varredura dos dados, apontando eventuais erros de preenchimento
 Caso aprovado o dado, a ferramenta deve gerar o extrato de aprovação para impressão, contendo rash do arquivo analisado (saída), e deve alimentar uma base de dados (em ambiente seguro) com o conteúdo do dado aprovado;   
 Ferramenta web para validação automática dos dados, conforme regras previstas na resolução 
 
+outra padronização necessária seria adaptar e unificar dados de entrada em si, para que seja possível diferenciar dados telemtricos de diferentes sensores e diferentes marcas, assim tendo dados padronizados em um sistema unico de entrada 
+
 Login e senha para acesso e uso da ferramenta deve ser os mesmos usados para acesso no sistema SEI 
 
 Identificadores a serem exigidos para carga dos dados: 
